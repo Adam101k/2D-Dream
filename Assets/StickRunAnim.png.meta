@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ae444a20529bcc04a89c8cb65df7c4fe
+guid: 0c6a66117756f9c46a5ca55505168727
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,11 +107,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StickAnim_0
+      name: StickRunAnim_0
       rect:
         serializedVersion: 2
         x: 9
-        y: 64
+        y: 32
         width: 15
         height: 31
       alignment: 7
@@ -121,62 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12253aa7bab62fe4886ac3d5fce01098
-      internalID: 1739986241
+      spriteID: c3d095e7a11e16a4f83af4ba1a3a97ac
+      internalID: 371582332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StickAnim_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 64
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27410c3819dad844daec1c74c9224090
-      internalID: -582540650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StickAnim_2
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 32
-        width: 15
-        height: 28
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 226ac4a165d38474890b3a8ab0de6797
-      internalID: -691706337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StickAnim_3
+      name: StickRunAnim_1
       rect:
         serializedVersion: 2
         x: 41
         y: 32
         width: 15
-        height: 28
+        height: 30
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,38 +142,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 666191fcbedb64541b697e1f08c6dfd4
-      internalID: 1847279344
+      spriteID: 307751e960562094dbde5f08d48ad1b0
+      internalID: 46890653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StickAnim_4
+      name: StickRunAnim_2
       rect:
         serializedVersion: 2
         x: 9
-        y: 0
-        width: 15
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b5bdb9dcaf5e1c429e24d44d9d90975
-      internalID: 788463198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StickAnim_5
-      rect:
-        serializedVersion: 2
-        x: 41
         y: 0
         width: 15
         height: 31
@@ -226,8 +163,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6bc5757c95aca34a84d3361caa0cdc6
-      internalID: 543136329
+      spriteID: 9ac77f1cb5ff9f542ba4ba1b50b22a74
+      internalID: -908602511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickRunAnim_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225db44b4d882734bb5b64f8d3b075f3
+      internalID: -800556812
       vertices: []
       indices: 
       edges: []
@@ -243,12 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      StickAnim_0: 1739986241
-      StickAnim_5: 543136329
-      StickAnim_2: -691706337
-      StickAnim_4: 788463198
-      StickAnim_1: -582540650
-      StickAnim_3: 1847279344
+      StickRunAnim_0: 371582332
+      StickRunAnim_1: 46890653
+      StickRunAnim_2: -908602511
+      StickRunAnim_3: -800556812
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
